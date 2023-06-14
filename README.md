@@ -1,4 +1,4 @@
-# Custom Makefile Build System for C and C++
+<h2 align="center">Custom Makefile Build System for C and C++</h2>
 
 ## Table of Contents
 
