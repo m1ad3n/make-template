@@ -33,7 +33,7 @@ cd make-template
 1. Clone only the Makefile
 
 ```shell
-curl https://raw.githubusercontent.com/m1ad3n/make-template/master/Makefile
+curl https://raw.githubusercontent.com/m1ad3n/make-template/master/Makefile > Makefile
 ```
 
 ## Dependencies
